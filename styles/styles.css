@@ -720,6 +720,9 @@ footer a:hover, footer a:focus {
         -ms-flex-direction: column;
             flex-direction: column;
   }
+  .navBar .wrapper a {
+    margin-left: 0;
+  }
   .logo {
     margin: 7px 0 12px 0;
   }
